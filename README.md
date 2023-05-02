@@ -1,7 +1,7 @@
 
 # Java Avancé
 
-Exercice de Java Avancé réalisé par :
+exercice de Java Avancé réalisé par :
 [@Lucas Gégot](https://github.com/Lucasgeg)
 
 ![Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.20t2tC-JLlTwyJ9-utQLKAAAAA%26pid%3DApi&f=1&ipt=2c720c4a3ed0c7e4e82e29a4dc7225a9519b315e5bf882c584c35566b12ce45b&ipo=images)
@@ -11,7 +11,7 @@ Exercice de Java Avancé réalisé par :
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-g%C3%A9got-007b0153/)
 [![github](https://img.shields.io/github/followers/Lucasgeg?style=social)](https://github.com/Lucasgeg)
 # Documentation:
-Java Avancé : Exercice 1
+Java Avancé : exercice 1
 
 La classe Customer représente un client qui peut acheter des jeux. Chaque client a un nom, un prénom, une adresse, un numéro de téléphone et un solde représentant le montant de jeux acheté. Chaque client peut également acheter un ou plusieurs jeux.
 
